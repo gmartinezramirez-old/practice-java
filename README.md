@@ -2,7 +2,7 @@
 <!-- <h1 align="center">dotfiles</h1> -->
 
 <!-- In this section add a brief description of the proyect, add (WIP) if is a work in progress -->
-<div align="center">[Finished] Movie Historical Review Analysis.</div>
+<div align="center">[Practice] Daily practice on java.</div>
 <br />
 <div align="center">
 </div>
@@ -14,6 +14,8 @@
 <b><a href="#features">Features</a></b>
 |
 <b><a href="#installation">Installation</a></b>
+|
+<b><a href="#installation">Example</a></b>
 |
 <b><a href="#structure">Structure</a></b>
 |
