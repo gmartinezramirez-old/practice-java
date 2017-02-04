@@ -28,7 +28,6 @@
 
 ## Overview
 
-<p align="right"><a href="#top">:arrow_up:</a></p>
 ## Features
 
 Technologies used:
@@ -37,7 +36,6 @@ Technologies used:
 Tested on:
 * Java SDK 1.8
 
-<p align="right"><a href="#top">:arrow_up:</a></p>
 ## Installation
 * Using command line:
 
@@ -49,26 +47,51 @@ $ maven install
 * Using command line:
 
 ```sh
-$ javac
+$ javac filename.java
 ```
-
 
 ## Usage
 * Using command line:
 
 ```sh
-$ java 
+$ java filename
 ```
-
-
-
-<p align="right"><a href="#top">:arrow_up:</a></p>
 ## Structure
 
-<p align="right"><a href="#top">:arrow_up:</a></p>
-## Credits
+    .
+    ├── build                   # Compiled files
+    ├── docs                    # Documentation files
+    ├── src                     # Source files
+    ├── test                    # Automated tests
+    ├── tools                   # Tools and utilities
+    ├── .editorconf
+    ├── .gitignore
+    ├── .travis.yml
+    ├── LICENSE
+    └── README.md
 
-<p align="right"><a href="#top">:arrow_up:</a></p>
+
 ## Licence
 
-<p align="right"><a href="#top">:arrow_up:</a></p>
+MIT License
+
+Copyright (c) 2017 Gonzalo Martinez
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE
+
